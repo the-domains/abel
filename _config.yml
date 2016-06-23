@@ -1,0 +1,28 @@
+name: abel
+favicon: null
+layout_spectrum: 0.9480824819765985
+typography_spectrum: 0.8554968151729554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.637506298488006
+  lightness: 0.30533222341910005
+  saturation: 0.24588765017688274
+  rhythmicContrast: 0.3026948836632073
+purpose: []
